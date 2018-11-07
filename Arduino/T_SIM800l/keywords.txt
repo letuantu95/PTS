@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map For easyFingerprint
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SIM800L	KEYWORD1
+S_String_Rom	KEYWORD1
+R_Rom	KEYWORD1
+R_SDT_Rom	KEYWORD1
+Read_Sms	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Begin 	KEYWORD2
+Read_Serial 	KEYWORD2
+Call 	KEYWORD2
+Print 	KEYWORD2
+Send_Sms 	KEYWORD2
+S_Rom 	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+FP_SUCCESS LITERAL1
+FP_FAILURE LITERAL1
